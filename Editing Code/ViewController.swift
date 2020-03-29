@@ -24,6 +24,10 @@ class ViewController: NSViewController {
     func addNumbers(num1: Int, num2: Int) -> Int {
         return num1 + num2
     }
+    
+    /**
+     This is a function
+     */
     func addThreeNumbers(num1: Int, num2: Int, num3: Int) -> Int {
         return num1 + num2 + num3
     }
